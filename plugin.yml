@@ -1,5 +1,5 @@
-name: Plugin-Feed
+name: Feed
 version: 0.5.0
-main: Rover17\Main
+main: Feed\Main
 api: 3.0.0
 author: Rover17
