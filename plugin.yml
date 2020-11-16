@@ -2,6 +2,4 @@ name: Feed
 version: 0.5.0
 main: Feed\Main
 api: 3.0.0
-author: 
-- Rover17
-- davidlouis101
+author: Rover17
