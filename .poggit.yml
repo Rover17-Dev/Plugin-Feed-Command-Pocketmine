@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Rover17-Dev/Plugin-Feed-Command-Pocketmine
+build-by-default: true
+branches:
+- main
+projects:
+  Plugin-Feed-Command-Pocketmine:
+    path: ""
+...
