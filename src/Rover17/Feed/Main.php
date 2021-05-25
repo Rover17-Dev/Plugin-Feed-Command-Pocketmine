@@ -2,7 +2,7 @@
 
 namespace Feed;
 
-use Feed\Command\feed;
+use Rover17\Feed\Command\feed;
 use pocketmine\event\Listener;
 use pocketmine\plugin\PluginBase;
 
